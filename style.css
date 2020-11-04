@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    text-decoration-color: blueviolet;
+    font-size: 30px;
+    font-family: serif;
+}
+
+#para1 {
+    font-size: 50px;
+    text-decoration-color: chartreuse;
+}
+
+#img1 {
+    width: 60px;
+    height: 60px;
+}
+
+#img2 {
+    width: 60px;
+    height: 60px;
+}
+
+#quote1 {
+    text-decoration-color: crimson;
+    font-family: cursive;
+}
+
+#quote2 {
+    text-decoration-color: crimson;
+    font-family: cursive;
+}
